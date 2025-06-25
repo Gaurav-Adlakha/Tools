@@ -198,3 +198,6 @@ trace_data = {
 - `dict2obj()` enables dot notation access
 - Grid automatically creates responsive columns
 
+<img width="883" alt="image" src="https://github.com/user-attachments/assets/b8126909-adaf-4352-b82a-74fcf92613bc" />
+
+
