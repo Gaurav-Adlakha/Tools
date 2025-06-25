@@ -3,6 +3,9 @@
 import fasthtml.common as ft, json
 import monsterui.all as mui
 from fastcore.all import *
+import fasthtml.common as ft
+import monsterui.all as mui
+
 ```
 
 **Create test data:**
