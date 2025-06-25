@@ -6,6 +6,9 @@ from fastcore.all import *
 import fasthtml.common as ft
 import monsterui.all as mui
 
+from fasthtml.jupyter import render_ft
+render_ft()
+
 ```
 
 **Create test data:**
