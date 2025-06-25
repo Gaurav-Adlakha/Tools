@@ -288,8 +288,8 @@ def create_annotation_page(fname):
 create_annotation_page('trace_20241201_120000.json')
 ```
 
-#orginal code
-```
+# orginal code
+```python
 import fasthtml.common as ft
 import monsterui.all as mui
 import os
