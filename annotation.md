@@ -1,5 +1,39 @@
 ## FastHTML & MonsterUI Complete Summary
 
+###Let me create the data and code structure for you to run step by step:
+
+```python
+import fasthtml.common as ft
+import monsterui.all as mui
+from fastcore.all import *
+import json
+```
+
+```python
+dataset_dir = Path("Golden_Data_Set")
+dataset_dir.mkdir(exist_ok=True)
+```
+
+```python
+trace_example = {
+    "request": {"messages": [{"role": "user", "content": "Hey! Need help with a pasta dish for tonight's potluck dinner - something that takes about an hour to make and NO seafood please (allergies in the group). Any ideas?"}]},
+    "response": {"messages": [
+        {"role": "system", "content": "You are an expert chef recommending delicious and useful recipes. Present only one recipe at a time. If the user doesn't specify what ingredients they have available, assume only basic ingredients are available."},
+        {"role": "user", "content": "Hey! Need help with a pasta dish for tonight's potluck dinner - something that takes about an hour to make and NO seafood please (allergies in the group). Any ideas?"},
+        {"role": "assistant", "content": "Absolutely! I recommend making a creamy mushroom and spinach tortellini bake – flavorful, comforting, and perfect for sharing at a potluck."}
+    ]}
+}
+```
+
+```python
+for i in range(3):
+    fname = f"trace_{20241201}_{120000 + i*1000}.json"
+    (dataset_dir / fname).write_text(json.dumps(trace_example, indent=2))
+```
+
+
+
+
 ### Basic HTML Elements
 - `ft.Div()` - Basic container (plain HTML div)
 - `ft.Li()` - List item 
