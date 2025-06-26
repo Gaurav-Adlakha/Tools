@@ -10,6 +10,7 @@ from fasthtml.jupyter import render_ft
 render_ft()
 
 ```
+[Gist link](https://gist.github.com/Gaurav-Adlakha/c178fa5d646764040785b4d3c84c574b)
 
 **Create test data:**
 ```python
