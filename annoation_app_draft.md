@@ -11,6 +11,8 @@ render_ft()
 
 ```
 [Gist link](https://nbsanity.com/static/fc6748ffe0573727be141031a00c9146/annoation.html])
+https://nbsanity.com/static/fc6748ffe0573727be141031a00c9146/annoation.html
+
 
 **Create test data:**
 ```python
