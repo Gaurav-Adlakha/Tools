@@ -1,6 +1,6 @@
 ---
-description: Fast.ai coding style and fastcore library patterns for concise, expressive Python code
-globs: **/*.py, **/*.ipynb
+description: "Fast.ai coding style and fastcore library patterns for concise, expressive Python code"
+globs: "**/*.py, **/*.ipynb"
 alwaysApply: false
 ---
 
