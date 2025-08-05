@@ -1,4 +1,4 @@
-```
+```python
 def hide_messages(search_term: str, summary: str = None):
     """Hides all messages matching the search term and adds a summary note"""
     msgs_to_hide = find_msgs(search_term)
