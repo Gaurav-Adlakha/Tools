@@ -5,6 +5,7 @@
   - [Reflection tool dialog](https://claude.ai/share/594999ce-710a-4989-9400-d8258b016298)
   - [Blog tool](https://gist.github.com/Gaurav-Adlakha/66a874c237756ab1e4c7070e801d4e85)
   - [writing tips](https://gist.github.com/Gaurav-Adlakha/a330453eb388af2bf9b82604ac1478cc)
+  - [sample](sample.html)
   
   
   
