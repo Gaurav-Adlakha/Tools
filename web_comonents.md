@@ -1,5 +1,5 @@
-```python
 # chat bubble
+```python
 from IPython.display import HTML
 HTML("""<style>
 .chat-bubble { padding: 12px 16px; border-radius: 18px; margin: 4px 0; max-width: 70%; display: inline-block;}
