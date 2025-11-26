@@ -7,6 +7,7 @@
   - [writing tips](https://gist.github.com/Gaurav-Adlakha/a330453eb388af2bf9b82604ac1478cc)
   - [sample](sample.html)
   - [dialoghelper](https://gist.github.com/Gaurav-Adlakha/ee884a9577e7228558fd34e801da8903)
+  - [prompt_guide](https://share.solve.it.com/d/4dafd709fcfa06c8853a6ed7a4cbf050#web-app-creation)
   
   
   
