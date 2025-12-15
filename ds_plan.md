@@ -1,7 +1,4 @@
 
-
-***
-
 # 🎓 LLM Engineer Study Plan: Architect & Optimization Roadmap
 
 This detailed plan guides your journey from building basic LLM applications to mastering deep optimization and scaling techniques, combining the practical focus of **Maxime Labonne's LLM Course** and the deep technical foundation of the **Stanford CS336 Lectures**.
