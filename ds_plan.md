@@ -5,6 +5,8 @@ This detailed plan guides your journey from building basic LLM applications to m
 
 ## Phase 1: LLM Fundamentals & Application Building (The "User")
 
+[https://chatgpt.com/s/dr_69413b33bdc881918cfeb4e1c1728208]
+
 ### Goal: Master prompting, build RAG systems, and understand the core LLM workflow.
 
 | # | Topic | Detailed Tasks (Checklist) | Key Resources |
